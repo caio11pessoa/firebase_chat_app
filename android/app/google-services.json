@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234714823287",
+    "project_id": "firebase-chat-app-viajus",
+    "storage_bucket": "firebase-chat-app-viajus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234714823287:android:0617f210b025baaa526472",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKZSvU4ZJG-zj8uAO7dVWbqV7w6P2O-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
